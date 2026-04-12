@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Minnesota, US",
+  "export_job_id": "75cfbc1f-d79b-4d1a-b2b1-8de37648495d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 410971,
+  "location_name": "Minnesota",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-minnesota-us-sample-410971",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/410971/beamstation_410971_restaurants-us-mn_SAMPLE_DIST.csv",
+  "sample_pct": 0.55,
+  "sample_records": 10,
+  "sample_sha256": "15d1579667ce43b77f6200135e483fec243db9006c0c9c2a18f64a1889cf3848",
+  "sample_size_bytes": 57816,
+  "total_records": 1833,
+  "updated_at": "2026-04-01T01:20:04.124969+00:00"
+}
