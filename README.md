@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Minnesota, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 207 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `410971` |
 | Location | Minnesota |
 | Category | Restaurants |
-| Full dataset size | 1,833 records |
-| Free sample size | 10 records (0.55%) |
-| Last export | 2026-04-01T01:20:04.124969+00:00 |
+| Full dataset size | 2,073 records |
+| Free sample size | 207 records (9.99%) |
+| Last export | 2026-04-15T03:24:47.376651+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-minnesota-us-sample-410971/releases/download/sample-latest/beamstation_410971_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
