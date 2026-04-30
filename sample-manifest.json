@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9981477a-6981-4665-88a5-af653d5c3de6",
+  "export_job_id": "dfef79ef-063d-4195-a284-75248fcf4343",
   "id_short": 410971,
-  "published_at": "2026-04-22T19:42:02Z",
+  "published_at": "2026-04-30T07:24:44Z",
   "repo_name": "restaurant-verified-email-access-in-minnesota-us-sample-410971",
   "sample_asset_name": "beamstation_410971_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/410971/beamstation_410971_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 111,
-  "sample_sha256": "7d79b8c2b182cb47318dd7ded1fe90f2c6fdafe77b0deffe9eacb4069a1c9842",
-  "sample_size_bytes": 449963,
-  "total_records": 1113
+  "sample_records": 224,
+  "sample_sha256": "82eb0f5231e5911c5be720478c0bcb9c1f28b942ef0954d36b4d9e1802cb16e2",
+  "sample_size_bytes": 861733,
+  "total_records": 2242
 }
